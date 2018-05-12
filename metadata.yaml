@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35236
     wikipedia: http://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%B1%CF%82_%CE%9A%CE%B1%CF%81%CE%BA%CE%B1%CE%B2%CE%AF%CF%84%CF%83%CE%B1%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38285#--------
 gutenberg_issued: '2011-12-12'
 gutenberg_type: Text
 identifiers:
