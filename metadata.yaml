@@ -1,0 +1,30 @@
+_repo: '--------_38285'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Karkavitsas, Andreas
+    aliases:
+    - Karkavitsas, A. (Andreas)
+    - Καρκαβίτσας, Ανδρέας
+    birthdate: 1866
+    deathdate: 1922
+    gutenberg_agent_id: '35236'
+    url: http://www.gutenberg.org/2009/agents/35236
+    wikipedia: http://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%B4%CF%81%CE%AD%CE%B1%CF%82_%CE%9A%CE%B1%CF%81%CE%BA%CE%B1%CE%B2%CE%AF%CF%84%CF%83%CE%B1%CF%82
+description: ''
+gutenberg_issued: '2011-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38285'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek fiction, Modern'
+title: Η Λυγερή
+url: http://www.gutenberg.org/ebooks/38285
